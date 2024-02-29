@@ -1,0 +1,15 @@
+<svg width="40.016846" height="40.572601" viewBox="0 0 40.0168 40.5726" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip653_537">
+			<rect id="facebook_icon_130940 4" rx="6.000000" width="40.016830" height="40.572620" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="facebook_icon_130940 4" rx="6.000000" width="40.016830" height="40.572620" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip653_537)">
+		<path id="Vector" d="M40.0051 0L0.0117188 0C0.00524902 0 0 0.00531006 0 0.0118713L0 40.5608C0 40.5672 0.00537109 40.5725 0.0117188 40.5726L40.0051 40.5726C40.0115 40.5726 40.0167 40.5672 40.0168 40.5608L40.0168 0.0118713C40.0168 0.00531006 40.0116 0 40.0051 0Z" fill="#1877F2" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M27.793 26.1503L28.684 20.2863L23.1348 20.2863L23.1348 16.4826C23.1348 14.8819 23.9086 13.3129 26.3939 13.3129L28.9185 13.3129L28.9185 8.32056C28.9185 8.32056 26.6284 7.92435 24.4401 7.92435C19.8678 7.92435 16.8822 10.7296 16.8822 15.817L16.8822 20.2863L11.8019 20.2863L11.8019 26.1503L16.8822 26.1503L16.8822 40.5726L23.1348 40.5726L23.1348 26.1503L27.793 26.1503Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
